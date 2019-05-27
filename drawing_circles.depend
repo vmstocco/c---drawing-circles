@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1558998829 source:c:\users\vini_\desktop\a\main.c
+	<stdio.h>
+	<math.h>
+	<windows.h>
+	<gl/glut.h>
+	<time.h>
+
